@@ -1,0 +1,24 @@
+{
+  "name": "mailinator-node",
+  "version": "1.0.0",
+  "description": "A node package for working with the mailinator API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glamb/mailinator-node.git"
+  },
+  "keywords": [
+    "mailinator",
+    "api",
+    "mail"
+  ],
+  "author": "Gregg Lamb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glamb/mailinator-node/issues"
+  },
+  "homepage": "https://github.com/glamb/mailinator-node"
+}
